@@ -20,5 +20,5 @@ app.use('/api/employees', employeeRoutes);
 app.listen(3000, () => {
   console.log('Server running on port 3000');
   console.log('Connected to MySQL');
-  console.log('Open in Browser Visit: http://localhost:3000')
+  console.log('Open in Browser Visit: http://localhost:3000');
 });
