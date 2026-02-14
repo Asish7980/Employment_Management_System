@@ -60,7 +60,6 @@ Employment_Management_System/
 1. **Clone the repo**
    ```
    git clone https://github.com/Asish7980/Employment_Management_System.git
-   cd Employment_Management_System
    ```
 2.  **Install dependencies**
 ```
