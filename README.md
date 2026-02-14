@@ -1,7 +1,7 @@
 # 🧑‍💼 Employee Management System
 
 
-A Full-Stack Employment Management System developed as part of the **PRODIGY_FS_02** project. This application allows administrators to manage employee records through a user-friendly interface with support for CRUD operations, pagination, search, and CSV export functionality.
+A Full-Stack Employment Management System this application allows administrators to manage employee records through a user-friendly interface with support for CRUD operations, pagination, search, and CSV export functionality.
 
 ## 🔧 Tech Stack
 
